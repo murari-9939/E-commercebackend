@@ -6,10 +6,12 @@ ASP.NET Core Web API + EF Core
 
 📌 Introduction
 
+
 Mini E-Comme<img width="1904" height="883" alt="Screenshot 2025-12-10 084123" src="https://github.com/user-attachments/assets/bb70f822-fcd3-4268-b920-61c9b56ca65f" />
 
 <img width="1887" height="917" alt="Screenshot 2025-12-10 120124" src="https://github.com/user-attachments/assets/91292d0e-75c2-45e0-aab5-6111565b260b" />
 
+<img width="1911" height="898" alt="Screenshot 2025-12-10 132406" src="https://github.com/user-attachments/assets/cb971413-bece-4508-8a6d-43dbf46d243d" />
 
 rce CRM is a backend proje<img width="1905" height="943" alt="Screenshot 2025-12-10 084201" src="https://github.com/user-attachments/assets/da05beb3-5d81-4b01-ab1b-ad88d7408f4d" />
 
