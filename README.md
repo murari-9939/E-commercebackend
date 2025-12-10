@@ -10,7 +10,11 @@ Mini E-Comme<img width="1904" height="883" alt="Screenshot 2025-12-10 084123" sr
 
 <img width="1887" height="917" alt="Screenshot 2025-12-10 120124" src="https://github.com/user-attachments/assets/91292d0e-75c2-45e0-aab5-6111565b260b" />
 
-rce CRM is a backend project built using ASP.NET Core Web API and Entity Framework Core.
+
+rce CRM is a backend proje<img width="1905" height="943" alt="Screenshot 2025-12-10 084201" src="https://github.com/user-attachments/assets/da05beb3-5d81-4b01-ab1b-ad88d7408f4d" />
+
+ct built using ASP.NET Core Web API and Entity Framework Core.<img width="1914" height="896" alt="Screenshot 2025-12-10 084303 - Copy" src="https://github.com/user-attachments/assets/ae48931b-3f19-49ad-8a44-8d2e86ea2f7a" />
+
 It includes modules for managing Products, Customers, Orders, and Order Items.
 Database creation and seed data are handled via SQL migration scripts.
 
