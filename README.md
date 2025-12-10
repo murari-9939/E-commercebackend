@@ -6,7 +6,8 @@ ASP.NET Core Web API + EF Core
 
 📌 Introduction
 
-Mini E-Commerce CRM is a backend project built using ASP.NET Core Web API and Entity Framework Core.
+Mini E-Comme<img width="1904" height="883" alt="Screenshot 2025-12-10 084123" src="https://github.com/user-attachments/assets/bb70f822-fcd3-4268-b920-61c9b56ca65f" />
+rce CRM is a backend project built using ASP.NET Core Web API and Entity Framework Core.
 It includes modules for managing Products, Customers, Orders, and Order Items.
 Database creation and seed data are handled via SQL migration scripts.
 
