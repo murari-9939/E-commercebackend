@@ -47,31 +47,7 @@ namespace E_Commerce.Controllers
             return Ok(result);
         }
 
-        // GET /api/orders?customerId=1&fromDate=2025-01-01&toDate=2025-12-31
-
-        //[HttpGet]
-        //public async Task<IActionResult> Get(int? customerId, DateTime? fromDate, DateTime? toDate)
-        //{
-        //    var query = _db.Orders
-        //                   .Include(o => o.OrderItems)
-        //                   .ThenInclude(oi => oi.Product)
-        //                   .Include(o => o.Customer)
-        //                   .AsQueryable();
-
-        //    // Filter by customer
-        //    if (customerId.HasValue)
-        //        query = query.Where(o => o.CustomerId == customerId.Value);
-
-        //    // Filter by date range
-        //    if (fromDate.HasValue)
-        //        query = query.Where(o => o.OrderDate >= fromDate.Value);
-        //    if (toDate.HasValue)
-        //        query = query.Where(o => o.OrderDate <= toDate.Value);
-
-        //    var orders = await query.ToListAsync();
-        //    return Ok(orders);
-        //}
-
+      
         // GET /api/orders/5
         //[HttpGet("{id}")]
         //public async Task<IActionResult> Get(int id)
@@ -85,22 +61,7 @@ namespace E_Commerce.Controllers
         //    return order == null ? NotFound() : Ok(order);
         //}
 
-        // POST /api/orders
-        //[HttpPost]
-        //public async Task<IActionResult> Post([FromBody] Order order)
-        //{
-        //    if (order.OrderItems == null || !order.OrderItems.Any())
-        //        return BadRequest("Order must have at least one item.");
-
-        //    // Auto-calculate total amount
-        //    order.TotalAmount = order.OrderItems.Sum(oi => oi.Quantity * oi.UnitPrice);
-        //    order.OrderDate = DateTime.Now;
-
-        //    _db.Orders.Add(order);
-        //    await _db.SaveChangesAsync();
-
-        //    return CreatedAtAction(nameof(Get), new { id = order.Id }, order);
-        //}
+       
 
 
         //[HttpPost]
